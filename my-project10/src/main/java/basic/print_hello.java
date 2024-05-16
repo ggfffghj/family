@@ -6,6 +6,6 @@ public class print_hello {
 		
 		System.out.println("shubham");
     
-		System.out.println("vaishali");
+		System.out.println("vaishali mane");
 	}
 }
